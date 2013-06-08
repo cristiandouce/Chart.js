@@ -5,7 +5,8 @@
   "keywords": ["charts"],
   "homepage": "https://github.com/nnnick/Chart.js",
   "author": "nnnick",
-  "main": ["Chart.min.js"],
+  "main": "Chart.js",
+  "scripts": [ "Chart.js" ],
   "dependencies": {
   }
 }
